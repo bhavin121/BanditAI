@@ -1,3 +1,4 @@
+% Question no 2
 R = zeros(1, 10000);
 N = zeros(1, 10);
 Q = zeros(1, 10);
